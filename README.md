@@ -369,3 +369,5 @@ This project is GPL-3.0-or-later.
 
 - Pixel Dungeon © 2012–2015 Oleg Dolya / Watabou
 - Shattered Pixel Dungeon © 2014–2026 Evan Debenham
+
+This is a port wired for GitHub pages, and for the v3.3.8 or the v3.3.8-web spd versions. (also this is for trigger fake commits)
